@@ -1,0 +1,57 @@
+body {
+	font-family: helvetica;
+	margin: 30px 200px 0px 200px;
+}
+
+.color {
+    color: purple;
+}
+.title {
+	text-decoration: underline;
+}
+.background{
+	background-color: azure;
+	width: 524px;
+}
+
+#background_page{
+	background-color: papayawhip;
+}
+
+a { 
+	text-decoration: underline; 
+	color: #000; 
+}
+
+.container{
+	width: 90%;
+	padding: 1em;
+    margin: 0 auto;
+}
+
+#images{
+	display: inline-block;
+}
+
+img{
+	margin-right: 3em;
+	vertical-align: bottom;
+}
+
+.clearfix:after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+.float{
+	float: right;
+}
+
+.header{
+	display: block;
+}
+/*p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
